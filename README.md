@@ -35,7 +35,21 @@
 
 ここまで完了したら次にPR(Pull Request)を出しましょう。
 
-<ここに後ほど画像を追加>
+### PRの出し方
+
+1 Compare & Pull Requestをクリック。
+<img width="970" alt="スクリーンショット 2024-11-02 15 23 04" src="https://github.com/user-attachments/assets/c02b0812-6bfa-4995-9650-978afdc4039e">
+
+2 適当な文章を入れる。
+<img width="1290" alt="スクリーンショット 2024-11-02 15 23 21" src="https://github.com/user-attachments/assets/2b0c1d53-0f92-456a-853d-94477c2d4de7">
+
+3 マージても大丈夫そうならマージをクリック。
+
+<img width="978" alt="スクリーンショット 2024-11-02 15 23 33" src="https://github.com/user-attachments/assets/9241dd22-e84b-46e5-8b65-4180ceeebe7c">
+
+4 マージできたら完了。
+<img width="1325" alt="スクリーンショット 2024-11-02 15 23 44" src="https://github.com/user-attachments/assets/23d46c83-83bb-4d22-b554-763a08197656">
+
 
 ### PRのレビューについて
 基本はお互いにレビューを求めず、PRを作成したらそのままmainブランチにマージしましょう。
