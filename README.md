@@ -53,6 +53,14 @@
 
 とは言ってもめちゃくちゃ小さい修正,タイポの修正やコメント修正などのためにいちいちissueを作成するのは面倒なのでその場合はスキップしましょう。
 
-<ここに後ほど画像を追加>
+### issue作成の仕方。
+1
+<img width="1393" alt="スクリーンショット 2024-11-02 14 44 20" src="https://github.com/user-attachments/assets/b27c186c-6d39-4776-99ec-69d4eddcc9cc">
+
+2 適当なタイトルと説明を追加しましょう。
+<img width="1336" alt="スクリーンショット 2024-11-02 14 45 28" src="https://github.com/user-attachments/assets/a5222294-20ec-485d-a48e-7a203684a27d">
+
+3 完了したらcloseしましょう。
+<img width="1002" alt="スクリーンショット 2024-11-02 14 46 45" src="https://github.com/user-attachments/assets/51e9e198-8e3a-45b1-973b-363414af22b4">
 
 
